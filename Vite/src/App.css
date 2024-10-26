@@ -1,0 +1,27 @@
+#root {
+  --color-primary: #FD8B51;
+  --color-card: #F5F5F5;
+  --color-text: #229799;
+  --color-button:
+
+
+}
+
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Cairo", sans-serif;
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+  font-family: "Cairo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
+}
+
+h4 {
+  margin: 10px;
+  font-weight: bold;
+}

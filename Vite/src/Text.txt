@@ -1,0 +1,5 @@
+https://api.themoviedb.org/3/movie/157336?api_key=6bf13f3d41885a99248fd522aa285f01&append_to_response=videos
+api.themcwiedb.orgv 3/movte/popular _ key = 52et921 bbeb21980cd91386a29403c 78&language = en- IJS&page = 1
+
+https://api.themoviedb.org/3/movie/popular?api=6bf13f3d41885a99248fd522aa285f01&language = en-US&page=
+• https://api.themoviedb.org/3/search/movie?api_key=6bf13f3d41885a99248fd522aa285f01&&quary={احمد}&language

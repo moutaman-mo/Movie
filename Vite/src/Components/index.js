@@ -1,0 +1,5 @@
+export {default as NavBar} from "./NavBar/NavBar.jsx"
+export {default as CardMovie} from "./CardMovie/CardMovie.jsx"
+export {default as MoviesList} from "./MoviesList/MoviesList.jsx"
+export {default as PaginationFooter} from "./PaginationFooter/PaginationFooter.jsx"
+export {default as DetailsMovie} from "./DetailsMovie/DetailsMovie.jsx"

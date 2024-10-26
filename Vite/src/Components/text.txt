@@ -1,0 +1,4 @@
+// ("https://api.themoviedb.org/3/discover/movie?api_key=6bf13f3d41885a99248fd522aa285f01");
+// https://api.themoviedb.org/3/discover/movie?api_key=6bf13f3d41885a99248fd522aa285f01&language=ar&page=1
+ image => https://image.tmdb.org/t/p/w500/ 
+ movies• popular. developers.themoviedb.org/3/movies/get-popular-movies
